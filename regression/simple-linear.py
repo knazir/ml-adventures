@@ -1,3 +1,8 @@
+# Simple example of a linear regression using data set representing
+# the price of houses based on the size in square feet. Then plots
+# the training data, test data, and linear fit.
+
+
 from scipy import stats
 import numpy as np
 from matplotlib import pyplot as plt
