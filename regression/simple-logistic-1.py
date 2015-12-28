@@ -4,6 +4,8 @@
 # logistic regression (sigmoid fit) to be able to predict whether
 # a potential client will pay off their loan where if the probability
 # that they will is >= 0.5, then they are put in the 1 category.
+#
+# Program plots the training data, test data, and sigmoid fit function.
 
 import numpy as np
 from matplotlib import pyplot as plt
